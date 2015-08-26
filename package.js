@@ -1,12 +1,8 @@
 Package.describe({
     name: 'esparty:pig2d',
     version: '0.0.1',
-    // Brief, one-line summary of the package.
-    summary: '',
-    // URL to the Git repository containing the source code for this package.
-    git: '',
-    // By default, Meteor will default to using README.md for documentation.
-    // To avoid submitting documentation, set this field to null.
+    summary: 'fast and samll but strong html5 2d game engine',
+    git: 'https://github.com/ESParty/meteor-pig2d',
     documentation: 'README.md'
 });
 
