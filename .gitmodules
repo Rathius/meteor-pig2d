@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/gbox3d/pig2d.git
